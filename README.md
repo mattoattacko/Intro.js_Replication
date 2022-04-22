@@ -1,5 +1,5 @@
 # Here you will find an attempt to replicate the Intro.js library. 
-## Intro.js is a JS library for creating step-by-step customer onboarding tours.
+Intro.js is a JS library for creating step-by-step customer onboarding tours.
 
 ### In association with Web Dev Simplified
 
